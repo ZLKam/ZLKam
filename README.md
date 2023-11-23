@@ -1,6 +1,8 @@
 ## About me 👋
 #### I am currently studying in Diploma in Game Design and Development.
 
+#### Working Experience
+###### - SMRT (Internship, VR app development using Unity 3D)
 
 ### My Github Stats
 ![](https://raw.githubusercontent.com/ZLKam/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
